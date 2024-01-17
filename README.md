@@ -1,3 +1,7 @@
+This project will compare the music preferences in Springfield and Shelbyville cities. Dataset is from Y.Music. and this was developed in Tripleten bootcamp.
+
+1. Amount Of Music Listening By Springfield And Shelbyville Users.
+2. Type Of Music Listened To The Beginning And The End Of The Week.
 En este proyecto, compararás las preferencias musicales de las ciudades de Springfield y Shelbyville. Se examinarán datos reales de Y.Music para comprobar las hipótesis que se exponen a continuación y comparar el uso de los usuarios de estas dos ciudades.
 Hipótesis
 La actividad de los usuarios difiere según el día de la semana y dependiendo de la ciudad.
