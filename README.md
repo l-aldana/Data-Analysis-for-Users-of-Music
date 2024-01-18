@@ -5,10 +5,10 @@ This project will compare the music preferences in Springfield and Shelbyville c
 3. Preferences by genre in each city
 
 Description of columns:
-'userID' — User ID
-'Track' — Title of song
-'artist' — Name of singer or group
-'genre'— Music genre
-'City' — User city
-'time' — Time the song was heard
-'Day' — Day of the week
+- 'userID' — User ID
+- 'Track' — Title of song
+- 'artist' — Name of singer or group
+- 'genre'— Music genre
+- 'City' — User city
+- 'time' — Time the song was heard
+- 'Day' — Day of the week
