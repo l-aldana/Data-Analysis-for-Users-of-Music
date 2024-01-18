@@ -12,3 +12,6 @@ Description of columns:
 - 'City' — User city
 - 'time' — Time the song was heard
 - 'Day' — Day of the week
+
+Used libraries:
+- Pandas
